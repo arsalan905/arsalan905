@@ -1,5 +1,3 @@
-![pic](https://github.com/user-attachments/assets/7563f932-4739-411b-855b-f25baa437ef3)
-
 ## Hi Friends!
 
 - 🔭 I’m Muhammad Arsalan
