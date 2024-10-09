@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Microsoft
 - 🤔 I’m looking for help with Friends
 - 💬 Ask me about Yourself
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Coding
 
