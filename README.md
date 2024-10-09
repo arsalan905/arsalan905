@@ -1,16 +1,10 @@
 ## Hi Friends!
 
-<!--
-**arsalan905/arsalan905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m Muhammad Arsalan
 - 🌱 I’m currently learning ReactJs,
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Microsoft
 - 🤔 I’m looking for help with Friends
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Yourself
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Coding
+
